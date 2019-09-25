@@ -1,0 +1,22 @@
+Exercice 1:
+
+1 longeur = 5
+  largeur = 10
+  longeur*largeur --> 5*10=50
+
+2 from math import pi
+  rayon = 3
+  pi*rayon**2 --> pi*3**2=28.0
+
+Exercice 2:
+ masse = 50
+ vitesse = 512
+ energie = 0.5*50*512**2 --> 262.1
+
+Exercice 3:
+ loyer = 500
+ taux = 0.05
+ augmentation = 0.5
+ nouveau_loyer = loyer*taux*augmentation
+
+Exrecices 4:
